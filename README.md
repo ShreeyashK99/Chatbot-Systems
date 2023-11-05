@@ -22,3 +22,20 @@ Ans: Text generation is the process of creating new text using artificial intell
 7.What is Text to image generation?
 Ans: 
 Text-to-image generation is the task of creating an image from a text description. It is a challenging task because it requires the model to understand the meaning of the text description and to be able to generate an image that is both visually appealing and accurate.
+
+
+
+
+
+# Text to image generation examples
+
+1. A cat sitting on a windowsill, looking out at the rain
+2. A mountain range at sunset.
+3. A waterfall cascading down a cliff.
+4. A forest with lush green trees and a babbling brook.
+5. A beach with white sand and crystal-clear water.
+6. A field of wildflowers under a blue sky.
+7. A man playing a guitar in a coffee shop.
+8. A child laughing while playing in the park.
+9. A family sitting together at dinner.
+10. A group of friends hiking in the mountains.
